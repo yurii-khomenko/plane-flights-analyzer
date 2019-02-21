@@ -3,7 +3,7 @@ package org.test.analyzer.service
 import java.io.FileInputStream
 import java.util.zip.GZIPInputStream
 
-import org.specs2.matcher.{MatchResult, TypedEqual}
+import org.specs2.matcher.MatchResult
 
 import scala.io.Source
 
